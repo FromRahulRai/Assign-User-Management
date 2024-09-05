@@ -14,7 +14,7 @@ This is a User Management Application built with React and Tailwind CSS. It prov
 
 ## Live Demo
 
-You can view the live application at: [Your Live URL](https://your-live-url.com)
+You can view the live application at: [Live URL](https://github.com/FromRahulRai/Assign-User-Management)
 
 ## Repository
 
